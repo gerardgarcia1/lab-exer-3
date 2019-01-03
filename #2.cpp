@@ -13,5 +13,3 @@ int main (){
 	return 0;
 }
 
-/* programmiz.com 
-it stated that "If you explicitly input the integer value of a char type its ASCII value is printed"*/
